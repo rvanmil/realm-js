@@ -5,7 +5,7 @@
 * None
 
 ### Fixed
-* None
+* `isLoggedIn` boolean property added to `User`. ([#3294](https://github.com/realm/realm-js/pull/3294))
 
 ### Internal
 * None
